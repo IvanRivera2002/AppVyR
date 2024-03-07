@@ -7,4 +7,95 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">@color/colorBlueTen</color>
+    <color name="colorPrimaryDark">#001264</color>
+    <color name="colorAccent">#F25C6E</color>
+    <color name="colorAccentDark">#FA0532</color>
+
+    <!--  Red -->
+    <color name="colorRedOne">#FA0532</color>
+    <color name="colorRedTwo">#FF5477</color>
+    <color name="colorRedThree">#FF8AB7</color>
+    <color name="colorRedFour">#FFBEF0</color>
+    <color name="colorRedFive">#FA0333</color>
+
+    <!--  Blue  -->
+    <color name="colorBlueOne">#001264</color>
+    <color name="colorBlueTwo">@color/colorBlueTen</color>
+    <color name="colorBlueThree">#0851B7</color>
+    <color name="colorBlueFour">#1F58BF</color>
+    <color name="colorBlueFive">#4F75E1</color>
+    <color name="colorBlueSix">#7594FF</color>
+    <color name="colorBlueSeven">#9AB4FF</color>
+    <color name="colorBlueEight">#ABC4FF</color>
+    <color name="colorBlueNine">#BED5FF</color>
+    <color name="colorBlueTen">#1F58BF</color>
+    <color name="colorBlueTwelve">#91ADE0</color>
+    <color name="colorBlueThirteen">#E9EFF9</color>
+    <color name="colorBlueFourteen">#D2DEF2</color>
+    <color name="colorBlueFiveTeen">#0D3F9E</color>
+    <color name="colorBlueSixTeen">#799BD9</color>
+    <color name="colorBlueSevenTeen">#C8D2D7</color>
+
+
+    <!--  NEUTRAL  -->
+    <color name="colorNeutralOne">#898EBA</color>
+    <color name="colorNeutralTwo">#868CC1</color>
+    <color name="colorNeutralThree">#ECEEFF</color>
+    <color name="colorNeutralFour">#F8F8FF</color>
+    <color name="colorNeutralFive">#A9AABC</color>
+    <color name="colorNeutralSix">#757687</color>
+    <color name="colorNeutralSeven">#444655</color>
+    <color name="colorNeutralEight">#FFFFFF</color>
+    <color name="colorNeutralNine">#BFA5A5</color>
+    <color name="colorNeutralTen">#F3F6FC</color>
+    <color name="colorNeutralEleven">#267245EF</color>
+    <color name="colorNeutralTwelve">#90A4AE</color>
+    <color name="colorNeutralThirteen">#F4F6F7</color>
+    <color name="colorNeutralFourteen">#E3D0FB</color>
+    <color name="colorNeutralFifteen">#DEE4E7</color>
+
+    <!--  ACCENTUAL  -->
+    <color name="colorAccentualOne">#625ABE</color>
+    <color name="colorAccentualTwo">#885DBB</color>
+    <color name="colorAccentualThree">#A662B7</color>
+    <color name="colorAccentualFour">#BE68B2</color>
+    <color name="colorAccentualFive">#D271AD</color>
+    <color name="colorAccentualSix">#F85E99</color>
+    <color name="colorAccentualSeven">#FF8773</color>
+    <color name="colorAccentualEight">#F25C6E</color>
+    <color name="colorAccentualNine">#B51D3F</color>
+
+    <!--  COMPLEMENTARY  -->
+    <color name="colorComplementaryOne">#629C99</color>
+    <color name="colorComplementaryTwo">#008A64</color>
+    <color name="colorComplementaryThree">#22C197</color>
+    <color name="colorComplementaryFour">#6DFACD</color>
+    <color name="colorComplementaryFive">#007690</color>
+    <color name="colorComplementarySix">#009539</color>
+    <color name="colorComplementarySeven">#0087FF</color>
+    <color name="colorComplementaryEight">#FFC05D</color>
+    <color name="colorComplementaryNine">#F9F871</color>
+    <color name="colorComplementaryTen">#000000</color>
+    <color name="colorComplementaryEleven">#515759</color>
+    <color name="colorComplementaryTwelve">#5B666B</color>
+    <color name="colorComplementaryThirteen">#33CCFF</color>
+    <color name="colorComplementaryFourteen">#26B545</color>
+    <color name="colorComplementaryFiveTeen">#252627</color>
+
+    <!--  -->
+    <color name="fillColor">#541271D5</color>
+    <color name="strokeColor">#CB1271D5</color>
+
+    <!-- MESSAGES -->
+    <color name="colorMessagePurple">#C8A2F8</color>
+    <color name="colorMessageBlue">#80D2FF</color>
+    <color name="colorMessageRed">#FD9BAD</color>
+    <color name="colorMessageGreen">#93DAA2</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="user">#47FFFFFF</color>
+    <color name="contra">#9C6F7BB9</color>
+
+
 </resources>
