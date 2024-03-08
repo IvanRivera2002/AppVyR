@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/menu_list"
+        android:title="Listado"/>
+
+    <item
+        android:id="@+id/alert"
+        android:icon="@drawable/menu_alarma"
+        android:title="Alertas"/>
+
+    <item
+        android:id="@+id/nprofile"
+        android:icon="@drawable/menu_user"
+        android:title="Perfil"/>
+
+
+
+
+
+
+
 
 </menu>
