@@ -96,6 +96,7 @@
 
     <color name="user">#47FFFFFF</color>
     <color name="contra">#9C6F7BB9</color>
-
+    <color name="transparent">#00FFFFFF</color>
+    <color name="toolbar">#003B7B</color>
 
 </resources>

@@ -6,7 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".activity.loginactivity"
-    android:background="@drawable/bg_login">
+    android:background="@drawable/fondo_version2"
+    android:alpha="0.9"
+
+
+    >
 
     <ScrollView
         android:layout_width="match_parent"
@@ -28,15 +32,25 @@
                 android:orientation="vertical">
 
 
+
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:src="@drawable/logo_login"
                     tools:ignore="ContentDescription"/>
-                <ImageView
-                    android:layout_width="match_parent"
-                    android:layout_height="180dp"
-                    android:src="@drawable/img_1"/>
+
+                <EditText
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textAlignment="center"
+                    android:textSize="38dp"
+                    android:textStyle="bold"
+                    android:text="V&amp;R GLOBAL SERVICES"
+                    android:layout_marginTop="30dp"
+                    android:backgroundTint="@color/transparent"
+                    />
+
 
                 <LinearLayout
                     android:layout_width="match_parent"
